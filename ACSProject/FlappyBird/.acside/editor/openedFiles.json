@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/FlappyBird/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 12,
+          "index": 72,
+          "line": 2
+        },
+        "start": {
+          "column": 12,
+          "index": 72,
+          "line": 2
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/FlappyBird/app/src/main/kotlin/com/xthan/flappybird/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 1738,
+          "line": 60
+        },
+        "start": {
+          "column": 0,
+          "index": 1738,
+          "line": 60
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/FlappyBird/app/src/main/kotlin/com/xthan/flappybird/MainActivity.kt"
+}
