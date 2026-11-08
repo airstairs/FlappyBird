@@ -1,6 +1,6 @@
 # FlappyBird
 FlappyBird for android
-
+FlappyBird for windows  
 
 <img src="ic.png" style="width: 88px;">  
 
